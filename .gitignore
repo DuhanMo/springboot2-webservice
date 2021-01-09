@@ -3,3 +3,6 @@
 
 .gradle
 .idea
+
+# 구글로그인을 위한 클라이언트 Id와 클라이언트 보안비밀을 깃허브에 올리면 안됨
+application-oauth.properties
