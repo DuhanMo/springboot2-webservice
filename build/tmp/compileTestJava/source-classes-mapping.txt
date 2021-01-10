@@ -1,10 +1,10 @@
 com/devduhan/first/web/HelloControllerTest.java
  com.devduhan.first.web.HelloControllerTest
+com/devduhan/first/web/dto/HelloResponseDtoTest.java
+ com.devduhan.first.web.dto.HelloResponseDtoTest
 com/devduhan/first/web/PostsApiControllerTest.java
  com.devduhan.first.web.PostsApiControllerTest
 com/devduhan/first/domain/posts/PostsRepositoryTest.java
  com.devduhan.first.domain.posts.PostsRepositoryTest
-com/devduhan/first/web/dto/HelloResponseDtoTest.java
- com.devduhan.first.web.dto.HelloResponseDtoTest
 com/devduhan/first/web/IndexControllerTest.java
  com.devduhan.first.web.IndexControllerTest
